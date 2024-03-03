@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookManagement</string>
+    <string name="list">List</string>
+    <string name="create">Create</string>
+    <string name="book_management">BookManagement</string>
+
+    <string name="create_book">Create Book</string>
+    <string name="book_detail">Book Detail</string>
+    <string name="refresh">pull-to-refresh</string>
+
+    <string name="commit">commit</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="close">close</string>
+    <string name="input_name">input name</string>
+    <string name="input_author">input author</string>
+    <string name="input_year_e_g_2012">input year (e.g.  2012)</string>
+    <string name="input_isbn">input isbn</string>
+    <string name="more">more</string>
+</resources>
