@@ -26,7 +26,7 @@ Android APK:   http://8.134.151.83:81/book.apk
 
 Back-end code:    
 		https://gitee.com/riosa/book-manage-backend  (The Dockerfile is in the root directory)   
-		https://github.com/rios168/book-manage-backend   
+		https://github.com/rios168/BookJava   
 		
 Android code:     
 		https://gitee.com/riosa/book-manage-android   
